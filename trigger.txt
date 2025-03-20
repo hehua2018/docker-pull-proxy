@@ -1,1 +1,1 @@
-python:latest ehz-mom.tencentcloudcr.com/public/python3:latest
+guiji2025/heygem.ai:latest ehz-mom.tencentcloudcr.com/public/heygem.ai:latest
