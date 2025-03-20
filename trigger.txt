@@ -1,1 +1,1 @@
-alpine:20240606 registry.cn-hangzhou.aliyuncs.com/yaming116/alpine:20240606
+guiji2025/fish-speech-ziming:latest ehz-mom.tencentcloudcr.com/public/fish-speech-ziming:latest
