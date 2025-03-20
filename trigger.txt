@@ -1,1 +1,1 @@
-guiji2025/fish-speech-ziming:latest ehz-mom.tencentcloudcr.com/public/fish-speech-ziming:latest
+python:latest ehz-mom.tencentcloudcr.com/public/python3:latest
